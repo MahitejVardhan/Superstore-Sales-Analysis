@@ -67,3 +67,11 @@ The dashboard enables stakeholders to monitor sales performance, analyze product
 - KPI Development
 - Interactive Reporting
 - Business Recommendation Framework
+
+## Dashboard
+<img width="636" height="357" alt="Executive Overview" src="https://github.com/user-attachments/assets/7bc1b4e8-45b9-46f6-9049-d12025ce00d0" />
+<img width="635" height="355" alt="Customer   Product Analysis" src="https://github.com/user-attachments/assets/25a35263-7767-4f8b-99c7-3d2e914181bc" />
+<img width="640" height="359" alt="Geographic Insights" src="https://github.com/user-attachments/assets/f06ec6e8-88e6-4c0e-903e-bca91b7e8ade" />
+<img width="636" height="358" alt="Customer Details" src="https://github.com/user-attachments/assets/baf615a3-b7c3-4b94-a8ee-c0abe4b4a329" />
+
+
