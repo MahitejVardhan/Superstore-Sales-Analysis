@@ -3,17 +3,41 @@ Interactive Power BI dashboard analyzing Superstore sales performance across reg
 
 ## Project Overview
 
-This project presents an end-to-end sales analysis of the Superstore dataset using Power BI. The objective was to identify key sales drivers, understand customer purchasing behavior, evaluate regional performance, and provide actionable business recommendations through interactive dashboards.
+This project presents a complete end-to-end sales analytics workflow using Python and Power BI on the Superstore dataset.
 
-The dashboard enables stakeholders to monitor sales performance, analyze product and customer trends, and explore geographic insights using drill-through navigation and interactive filters.
+The analysis began with Exploratory Data Analysis (EDA) in Python to understand data quality, customer behavior, product performance, regional trends, and sales patterns. The insights derived from EDA were then transformed into an interactive Power BI dashboard to support business decision-making.
 
-## Tools Used
+The objective of the project is to identify key revenue drivers, evaluate customer and product performance, analyze geographic trends, and provide actionable business recommendations.
 
-- Power BI
-- Microsoft Excel / CSV Dataset
-- DAX (Data Analysis Expressions)
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+## Project Workflow
+
+Data Collection → Data Cleaning → Exploratory Data Analysis (Python) → Business Insights → Interactive Dashboard Development (Power BI)
+
+## Tools & Technologies
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+Power BI
+DAX
+Exploratory Data Analysis (Python)
+
+The EDA phase included:
+
+Data inspection and cleaning
+Missing value analysis
+Sales distribution analysis
+Customer analysis
+Product performance analysis
+Category and sub-category analysis
+Segment analysis
+Regional, state, and city analysis
+Year-wise and monthly sales trends
+Pivot table analysis
+Business insight generation
+
 
 ## Dashboard Pages
 
