@@ -14,29 +14,29 @@ The objective of the project is to identify key revenue drivers, evaluate custom
 Data Collection → Data Cleaning → Exploratory Data Analysis (Python) → Business Insights → Interactive Dashboard Development (Power BI)
 
 ## Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-Power BI
-DAX
-Exploratory Data Analysis (Python)
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-Jupyter Notebook
+-Power BI
+-DAX
+-Exploratory Data Analysis (Python)
 
 The EDA phase included:
 
-Data inspection and cleaning
-Missing value analysis
-Sales distribution analysis
-Customer analysis
-Product performance analysis
-Category and sub-category analysis
-Segment analysis
-Regional, state, and city analysis
-Year-wise and monthly sales trends
-Pivot table analysis
-Business insight generation
+-Data inspection and cleaning
+-Missing value analysis
+-Sales distribution analysis
+-Customer analysis
+-Product performance analysis
+-Category and sub-category analysis
+-Segment analysis
+-Regional, state, and city analysis
+-Year-wise and monthly sales trends
+-Pivot table analysis
+-Business insight generation
 
 
 ## Dashboard Pages
